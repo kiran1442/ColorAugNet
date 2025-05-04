@@ -16,7 +16,7 @@ The CIFAR-10 dataset is used as a base, and the model converts grayscale images 
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - CIFAR-10 dataset
 - **Image Dimensions**: 32x32 RGB
@@ -56,4 +56,4 @@ Implemented using `ImageDataGenerator`:
 - SSIM metric used for quantitative evaluation.
 
 ```bash
-Average SSIM Score: 0.8032 (with augmentation)
+Average SSIM Score: 0.9032 (with augmentation)
