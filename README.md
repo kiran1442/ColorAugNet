@@ -49,9 +49,9 @@ Implemented using `ImageDataGenerator`:
 ---
 
 
-### 📈 Training Performance
+### Training Performance
 
-- Model trained for 5 epochs with augmented data.
+- Model trained for 5 epochs with augmented data and without augmented data.
 - Visual improvement in color saturation and sharpness.
 - SSIM metric used for quantitative evaluation.
 
